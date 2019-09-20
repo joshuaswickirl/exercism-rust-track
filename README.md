@@ -7,3 +7,4 @@ Exercism's Rust Track
 
 1. [Hello World](/hello-world)
 2. [Reverse String](/reverse-string)
+3. [Gigasecond](/gigasecond)
